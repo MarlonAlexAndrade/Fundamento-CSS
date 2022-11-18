@@ -1,0 +1,7 @@
+footer::after{
+   content: "Copyright não copie essa bagaça."
+}
+
+header a{
+    text-decoration: none;
+}
